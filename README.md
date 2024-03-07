@@ -16,15 +16,15 @@ You can then launch the project using `make run`.
 
 # Controls
 
-ESC - Quit
-C - Switch camera mode (Orbit/Free)
+ESC - Quit \
+C - Switch camera mode (Orbit/Free) \
 PLUS/MINUS - Increase/Decrease resolution of the terrain surface
 
 ## Free Mode
 
-W,S - Forward/Backward
-Q,D - Left/Right
-SPACE - Up
+W,S - Forward/Backward \
+Q,D - Left/Right \
+SPACE - Up \
 LSHIFT - Down
 
 ## Orbit Mode
