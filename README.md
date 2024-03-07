@@ -7,7 +7,7 @@ Small OpenGL application that showcases a terrain build from a height map, with 
 
 # Dependencies
 
-This project uses GLFW 3.4 and GLEW 2.20.
+This project uses GLFW 3.4 and GLEW 2.1.0.
 
 # Compiling
 
